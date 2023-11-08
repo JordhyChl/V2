@@ -1,0 +1,62 @@
+[
+  {
+    "plat": "B 1235 GHJ",
+    "lastUpdate": "31-12-2022 16:00:00",
+    "speed": "20",
+    "status": "bergerak",
+    "unit": "Avanza",
+    "device": "VT90Z",
+    "lastPulsa": "31-12-2022",
+    "vehicles": "mobil"
+  },
+    {
+    "plat": "B 1213 QWE",
+    "lastUpdate": "31-12-2022 16:00:00",
+    "speed": "0",
+    "status": "parkir",
+    "unit": "Truk 1",
+    "device": "VT90Z",
+    "lastPulsa": "31-12-2022",
+    "vehicles": "truck"
+  },
+    {
+    "plat": "B 1234 GHJ",
+    "lastUpdate": "31-12-2022 16:00:00",
+    "speed": "0",
+    "status": "berhenti",
+    "unit": "Bus 1",
+    "device": "VT90Z",
+    "lastPulsa": "31-12-2022",
+    "vehicles": "bus"
+  },
+    {
+    "plat": "B 8373 KHK",
+    "lastUpdate": "31-12-2022 16:00:00",
+    "speed": "20",
+    "status": "bergerak",
+    "unit": "Vario 150",
+    "device": "VT90Z",
+    "lastPulsa": "31-12-2022",
+    "vehicles": "motor"
+  },
+    {
+    "plat": "B 1214 VZZ",
+    "lastUpdate": "31-12-2022 16:00:00",
+    "speed": "20",
+    "status": "berhenti",
+    "unit": "Vario 150",
+    "device": "VT90Z",
+    "lastPulsa": "31-12-2022",
+    "vehicles": "motor"
+  },
+    {
+    "plat": "B 1234 GHJ",
+    "lastUpdate": "31-12-2022 16:00:00",
+    "speed": "-",
+    "status": "nodata",
+    "unit": "Vespa",
+    "device": "VT90Z",
+    "lastPulsa": "31-12-2022",
+    "vehicles": "motor"
+  }
+]

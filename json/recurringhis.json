@@ -1,0 +1,37 @@
+[
+    {
+        "payment": "0017477654445454373",
+        "package": 30,
+        "unit": 4,
+        "price": "Rp.2.000.000",
+        "status": "Aktif"
+    },
+      {
+        "payment": "0017477654445454373",
+        "package": 20,
+        "unit": 4,
+        "price": "Rp.2.000.000",
+        "status": "Berhenti"
+    },
+      {
+        "payment": "0017477654445454373",
+        "package": 10,
+        "unit": 4,
+        "price": "Rp.2.000.000",
+        "status": "Aktif"
+    },
+      {
+        "payment": "0017477654445454373",
+        "package": 15,
+        "unit": 4,
+        "price": "Rp.2.000.000",
+        "status": "Berhenti"
+    },
+      {
+        "payment": "0017477654445454373",
+        "package": 25,
+        "unit": 4,
+        "price": "Rp.2.000.000",
+        "status": "Aktif"
+    }
+]

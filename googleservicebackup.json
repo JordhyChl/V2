@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "598992388497",
+    "project_id": "superspring-gcs",
+    "storage_bucket": "superspring-gcs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598992388497:android:01b1415c1a226a44709a30",
+        "android_client_info": {
+          "package_name": "com.superspring.gpsid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598992388497-t242ssenbpi271cuj5fgn407njdp5ef3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.superspring.gpsid",
+            "certificate_hash": "af3041132eb8343ddcd0fa93f4496c377f09dd7d"
+          }
+        },
+        {
+          "client_id": "598992388497-itks93pch2gmpugrg3r8pu6qu7ntgfud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTVXUOvfZu8LeaB-8zvQFma63MU39RIP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598992388497-itks93pch2gmpugrg3r8pu6qu7ntgfud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

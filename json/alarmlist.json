@@ -1,0 +1,87 @@
+[
+    {
+        "status": "Acc on alarm",
+        "plat": "B 123 GHJ",
+        "iconAlarm": "alarmon",
+        "statusAct": "Mesin dihidupkan",
+        "time": "08:00"
+    },
+      {
+        "status": "Acc off alarm",
+        "plat": "B 123 GHJ",
+        "iconAlarm": "alarmoff",
+        "statusAct": "Mesin dihidupkan",
+        "time": "08:00"
+    },
+      {
+        "status": "in POI",
+        "plat": "B 123 GHJ",
+        "iconAlarm": "alarmon",
+        "statusAct": "Masuk area superspring",
+        "time": "08:00"
+    },
+      {
+        "status": "out POI",
+        "plat": "B 123 GHJ",
+        "iconAlarm": "alarmoff",
+        "statusAct": "Keluar area superspring",
+        "time": "08:00"
+    },
+      {
+        "status": "SOS",
+        "plat": "B 123 GHJ",
+        "iconAlarm": "sosalarm",
+        "statusAct": "Emergency",
+        "time": "08:00"
+    },
+      {
+        "status": "Overspeed Alarm",
+        "plat": "B 123 GHJ",
+        "iconAlarm": "speedalarm",
+        "statusAct": "Melebih batas kecepatan",
+        "time": "08:00"
+    },
+      {
+        "status": "Overspeed By Zone Alarm",
+        "plat": "B 123 GHJ",
+        "iconAlarm": "overzonealarm",
+        "statusAct": "Melebihi batas kecepatan dizona terdaftar",
+        "time": "08:00"
+    },
+
+      {
+        "status": "Door Open Alarm",
+        "plat": "B 123 GHJ",
+        "iconAlarm": "dooropenalarm",
+        "statusAct": "Sensor mendeteksi pintu terbuka",
+        "time": "08:00"
+    },
+      {
+        "status": "Door Closed Alarm",
+        "plat": "B 123 GHJ",
+        "iconAlarm": "doorclosealarm",
+        "statusAct": "Pintu Tertutup",
+        "time": "08:00"
+    },
+      {
+        "status": "Out Geofence",
+        "plat": "B 123 GHJ",
+        "iconAlarm": "outgeo",
+        "statusAct": "Keluar dari wilayah geofence",
+        "time": "08:00"
+    },
+      {
+        "status": "In Geofence",
+        "plat": "B 123 GHJ",
+        "iconAlarm": "ingeo",
+        "statusAct": "Masuk ke wilayah geofence",
+        "time": "08:00"
+    },
+      {
+        "status": "Min temprature Alarm",
+        "plat": "B 123 GHJ",
+        "iconAlarm": "mintemp",
+        "statusAct": "Emergency",
+        "time": "08:00"
+    }
+]
